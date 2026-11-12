@@ -34,6 +34,11 @@
       "name": "Find Collaborators",
       "url": "https://stemedplus.org/stemed-collaborators/",
       "about": "researchers and educators who want to work together"
+    },
+    {
+      "name": "STEMEd+ Faculty Development",
+      "url": "https://jlib271.github.io/stemed-faculty-development/",
+      "about": "teaching professional development for college faculty, instructors, graduate students, and postdocs"
     }
   ],
   "feed_size": 100
