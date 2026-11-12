@@ -1,0 +1,40 @@
+{
+  "title": "STEMEd+ Professional Learning",
+  "tagline": "Professional learning for K-12 teachers and informal educators across STEM+ fields: research experiences, fellowships, institutes, courses, and webinars run by national societies and US federal agencies, with application deadlines in one place. State and district professional development is not included.",
+  "repo_url": "https://github.com/JLib271/stemed-professional-learning",
+  "site_url": "https://jlib271.github.io/stemed-professional-learning/",
+  "commons_home": "https://stemedplus.hcommons.org/",
+  "related": [
+    {
+      "name": "STEMEd+ Conferences",
+      "url": "https://jlib271.github.io/stemed-conferences/",
+      "about": "meetings, proposal deadlines, and travel support, including NSTA, NCTM, and other teacher conferences"
+    },
+    {
+      "name": "STEMEd+ Digest",
+      "url": "https://jlib271.github.io/STEMEd-Digest/",
+      "about": "new journal articles, preprints, and dissertations"
+    },
+    {
+      "name": "STEMEd+ Funding",
+      "url": "https://jlib271.github.io/stemed-funding/",
+      "about": "open calls and deadlines for STEM+ education funding"
+    },
+    {
+      "name": "STEM+ Education Research Graduate Programs",
+      "url": "https://jlib271.github.io/stem-ed-research-programs/",
+      "about": "where to study STEM+ education research"
+    },
+    {
+      "name": "STEMEd+ Jobs",
+      "url": "https://jlib271.github.io/stemed-jobs/",
+      "about": "positions in STEM+ education"
+    },
+    {
+      "name": "Find Collaborators",
+      "url": "https://stemedplus.org/stemed-collaborators/",
+      "about": "researchers and educators who want to work together"
+    }
+  ],
+  "feed_size": 100
+}

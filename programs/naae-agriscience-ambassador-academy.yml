@@ -1,0 +1,22 @@
+name: National Agriscience Teacher Ambassador Academy
+short: NATAA
+providers: [National Association of Agricultural Educators]
+sponsor_type: US society
+type: institute
+audiences: [K-12 teachers]
+grades: [Middle school, High school]
+disciplines: [Agriculture]
+format: in person
+cost: varies
+url: https://www.naae.org/members/stay-up-to-date/all-events/national-agriscience-teacher-ambassador-academy-tentative1/
+frequency: annual
+schedule: A week-long academy each July (2026 was in Lexington, Kentucky); applications open in February.
+summary: Trains agriculture teachers in inquiry-based agriscience teaching; ambassadors then lead workshops for other teachers at the National FFA and NAAE conventions.
+checked: 2026-11-12
+offerings:
+  - name: 2027 Academy
+    url: https://www.naae.org/members/stay-up-to-date/all-events/national-agriscience-teacher-ambassador-academy-tentative1/
+    dates_source: announced
+    note: NAAE says the 2027 application opens in February 2027; the exact date is not posted yet.
+    deadlines:
+      - {label: Applications open, date: 2027-02-01, kind: opens, note: NAAE says February 2027; the exact day is not posted yet.}
