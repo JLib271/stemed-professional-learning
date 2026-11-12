@@ -1,0 +1,27 @@
+name: Knowles Teaching Fellowship
+short: Knowles
+providers: [Knowles Teacher Initiative]
+sponsor_type: Private foundation or nonprofit
+type: fellowship
+audiences: [K-12 teachers]
+grades: [High school]
+disciplines: [Mathematics, Science Education]
+format: hybrid
+cost: stipend
+cost_note: Annual stipends, plus grants for classroom materials, professional learning, and National Board Certification.
+url: https://knowlesteachers.org/teaching-fellowship/teaching-fellows-program/apply-for-a-fellowship
+frequency: annual
+schedule: Applications open each August for the next year's cohort and are reviewed in rounds, followed by video, group, and individual interviews; fellowships are awarded in early July.
+summary: A four-year fellowship for early-career high school math and science teachers, with coaching, a national community of more than 600 educators, and support for teacher-led work.
+checked: 2026-11-12
+offerings:
+  - name: 2027 cohort
+    start: 2027-10-08
+    end: 2027-10-09
+    location: First cohort meeting in Moorestown, New Jersey
+    url: https://knowlesteachers.org/teaching-fellowship/teaching-fellows-program/apply-for-a-fellowship
+    dates_source: official
+    note: Initial applications (resume and transcripts) are reviewed in rounds, so applying early helps. Group interviews are April 17, 2027.
+    deadlines:
+      - {label: Applications open, date: 2026-08-04, kind: opens}
+      - {label: Quarterfinalist videos due, date: 2027-02-16, kind: application, note: The last step before interviews; submit the initial application well before this.}

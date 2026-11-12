@@ -38,7 +38,8 @@ COST_LABELS = {
 }
 AUDIENCES = ["K-12 teachers", "Informal educators"]
 GRADES = ["Elementary", "Middle school", "High school"]
-SPONSOR_TYPES = ["US society", "International society", "US federal agency", "Federally funded program"]
+SPONSOR_TYPES = ["US society", "International society", "US federal agency", "Federally funded program",
+                 "Smithsonian Institution", "Private foundation or nonprofit"]
 APPLY_KINDS = ("application", "registration")
 
 

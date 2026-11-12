@@ -15,8 +15,9 @@ the [Graduate Programs](https://jlib271.github.io/stem-ed-research-programs/) li
   zoos, aquariums, parks, nature centers, libraries, and after-school and outreach programs.
 - **Who runs it.** Only programs run by a national scholarly or professional society or association (in the US
   or internationally), by a US federal agency (NOAA, NASA, NSF, the National Park Service, the Department of
-  Energy, ...), or by a national program a federal agency funds (for example, NSF-funded RET Sites or the
-  NASA-sponsored GLOBE Program). **If we are not sure, we leave it out.**
+  Energy, ...), by a national program a federal agency funds (for example, NSF-funded RET Sites or the
+  NASA-sponsored GLOBE Program), by the Smithsonian Institution, or by a national private foundation or nonprofit
+  (for example, the Knowles Teacher Initiative). **If we are not sure, we leave it out.**
 - **What kinds.** Research and field experiences, fellowships, workshops and institutes, online courses,
   webinar series, coaching, and certification training.
 - **What it shows.** Who it is for and which grades, cost or stipend, credit, format, how often it runs, and
@@ -29,14 +30,13 @@ the [Graduate Programs](https://jlib271.github.io/stem-ed-research-programs/) li
   of national networks (such as state Ag in the Classroom programs or state GLOBE partners' own workshops).
   The page says so at the top, and teachers are pointed to their state agency, state teacher association, or
   district instead.
-- University courses and degrees, and programs run by companies or funded only by private foundations.
+- University courses and degrees, programs run by companies, and programs open only to teachers in one city or state.
 - Teacher conferences such as NSTA and NCTM, which are on [STEMEd+ Conferences](https://jlib271.github.io/stemed-conferences/).
 
 ### Considered but not listed
 
-Smithsonian Science Education Center programs (its own pages say it receives no federal funding), the PCMI
-Teacher Leadership Program and Knowles and Math for America fellowships (private foundation funding), and
-AMTE programs (for mathematics teacher educators, not K-12 teachers).
+Math for America fellowships (open only to New York City public school teachers) and AMTE programs (for
+mathematics teacher educators, not K-12 teachers).
 
 Disciplines come from the list shared across STEMEd+ Commons, kept in [HuMeta](https://github.com/JLib271/HuMeta)
 (`standard/humeta/stemedplus_disciplines.json`). Computer science is listed under Engineering, as on the other sites.

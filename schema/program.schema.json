@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "STEMEd+ Professional Learning: a program",
-  "description": "One national professional learning program for K-12 teachers or informal educators, with any announced sessions or application rounds. One file per program in programs/. List only programs run by a national scholarly or professional society or association (US or international), by a US federal agency, or by a national program funded by a US federal agency. State, regional, and district programs are not listed, and neither are programs run by companies or funded only by private foundations. If you are not sure a program meets that rule, leave it out.",
+  "description": "One national professional learning program for K-12 teachers or informal educators, with any announced sessions or application rounds. One file per program in programs/. List only programs run by a national scholarly or professional society or association (US or international), by a US federal agency, by a national program funded by a US federal agency, by the Smithsonian Institution, or by a national private foundation or nonprofit. State, regional, and district programs are not listed, and neither are programs run by companies. If you are not sure a program meets that rule, leave it out.",
   "type": "object",
   "additionalProperties": false,
   "required": ["name", "providers", "sponsor_type", "type", "audiences", "url", "frequency", "schedule", "cost", "summary", "checked"],
@@ -13,8 +13,8 @@
       "description": "The societies, associations, or agencies that run or fund it."
     },
     "sponsor_type": {
-      "enum": ["US society", "International society", "US federal agency", "Federally funded program"],
-      "description": "US society: a national US scholarly or professional society or association. International society: one organized internationally. US federal agency: run by NOAA, NASA, NSF, NPS, the Department of Energy, or another US agency. Federally funded program: a national program run by another organization with US federal funding (say how in funding_note)."
+      "enum": ["US society", "International society", "US federal agency", "Federally funded program", "Smithsonian Institution", "Private foundation or nonprofit"],
+      "description": "US society: a national US scholarly or professional society or association. International society: one organized internationally. US federal agency: run by NOAA, NASA, NSF, NPS, the Department of Energy, or another US agency. Federally funded program: a national program run by another organization with US federal funding (say how in funding_note). Smithsonian Institution: a Smithsonian museum or center. Private foundation or nonprofit: a national program run or funded by a private foundation or nonprofit (not a company), open to educators across the US."
     },
     "funding_note": {"type": "string", "description": "Which agency supports it and how."},
     "type": {

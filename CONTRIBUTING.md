@@ -7,13 +7,14 @@ The full list of fields, with descriptions, is in `schema/program.schema.json`.
 
 1. **Check it is national.** State, regional, and district professional development is not listed, even when a
    national network runs it through state partners. List the national program, not a state chapter's workshop.
-2. **Check who runs it.** The national society or association, or the US federal agency, must be named on its
-   own website as running or funding the program. For a "Federally funded program", say which agency in
+2. **Check who runs it.** The society, agency, Smithsonian unit, or foundation must be named on its own website
+   as running or funding the program. For a "Federally funded program", say which agency in
    `funding_note`.
 3. **Check who it is for.** K-12 teachers, informal educators (museums, zoos, aquariums, parks, nature centers,
    libraries, after-school and outreach programs), or both, in a STEM+ field.
-4. **Leave out anything you are unsure about,** and anything run by a company or funded only by a private
-   foundation. Teacher conferences belong on STEMEd+ Conferences instead.
+4. **Private foundations and nonprofits are welcome** when the program is national (open to educators across
+   the US). Leave out anything run by a company, anything open only to teachers in one city or state, and anything
+   you are unsure about. Teacher conferences belong on STEMEd+ Conferences instead.
 
 ## Example
 
@@ -21,7 +22,7 @@ The full list of fields, with descriptions, is in `schema/program.schema.json`.
 name: NOAA Teacher at Sea
 short: Teacher at Sea
 providers: [NOAA Fisheries]
-sponsor_type: US federal agency        # US society | International society | US federal agency | Federally funded program
+sponsor_type: US federal agency        # US society | International society | US federal agency | Federally funded program | Smithsonian Institution | Private foundation or nonprofit
 type: field                            # research | field | fellowship | institute | course | webinars | coaching | credential
 audiences: [K-12 teachers, Informal educators]
 grades: [Middle school, High school]   # leave out if it is for all of K-12
