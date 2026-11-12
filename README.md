@@ -15,7 +15,7 @@ the [Graduate Programs](https://jlib271.github.io/stem-ed-research-programs/) li
   zoos, aquariums, parks, nature centers, libraries, and after-school and outreach programs.
 - **Who runs it.** Only programs run by a national scholarly or professional society or association (in the US
   or internationally), by a US federal agency (NOAA, NASA, NSF, the National Park Service, the Department of
-  Energy, ...), by a national program a federal agency funds (for example, NSF-funded RET Sites or the
+  Energy, ...), by a national program with federal agency funds (for example, NSF-funded RET Sites or the
   NASA-sponsored GLOBE Program), by the Smithsonian Institution, or by a national private foundation or nonprofit
   (for example, the Knowles Teacher Initiative). **If we are not sure, we leave it out.**
 - **What kinds.** Research and field experiences, fellowships, workshops and institutes, online courses,
