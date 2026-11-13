@@ -38,8 +38,8 @@ the [Graduate Programs](https://jlib271.github.io/stem-ed-research-programs/) li
 Math for America fellowships (open only to New York City public school teachers) and AMTE programs (for
 mathematics teacher educators, not K-12 teachers).
 
-Disciplines come from the list shared across STEMEd+ Commons, kept in [HuMeta](https://github.com/JLib271/HuMeta)
-(`standard/humeta/stemedplus_disciplines.json`). Computer science is listed under Engineering, as on the other sites.
+Disciplines come from the list shared across STEMEd+ Commons, kept in the [HuMeta profile](https://github.com/JLib271/humeta-profile)
+(`stemedplus_disciplines.json`). Computer science is listed under Engineering, as on the other sites.
 
 ## Feeds and calendars
 
