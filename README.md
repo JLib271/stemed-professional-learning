@@ -6,8 +6,7 @@ deadlines in one place: **https://jlib271.github.io/stemed-professional-learning
 STEMEd+ Professional Learning is part of [STEMEd+ Commons](https://stemedplus.hcommons.org/), with
 [STEMEd+ Conferences](https://jlib271.github.io/stemed-conferences/), [STEMEd+ Funding](https://jlib271.github.io/stemed-funding/),
 [STEMEd+ Jobs](https://jlib271.github.io/stemed-jobs/), the [STEMEd+ Digest](https://jlib271.github.io/STEMEd-Digest/),
-the [Graduate Programs](https://jlib271.github.io/stem-ed-research-programs/) list, and
-[Find Collaborators](https://stemedplus.org/stemed-collaborators/).
+and the [Graduate Programs](https://jlib271.github.io/stem-ed-research-programs/) list.
 
 ## What is listed
 
